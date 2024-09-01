@@ -24,7 +24,7 @@ Follow these steps to get your robot dancing and prancing in no time!
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/robotics-control-code.git
+   git clone https://github.com/kondwani0099/robotics-control-code.git
    cd robotics-control-code
    ```
 
